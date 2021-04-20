@@ -20,3 +20,7 @@
 - Tonality: if 0, major / if 1: minor
 
 *MIR tool box does not take midi files as their input while MIDI tool box does take it.
+
+
+### Main Reference
+- https://github.com/nabinkim0318/MacLab
